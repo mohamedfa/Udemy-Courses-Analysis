@@ -30,4 +30,4 @@ The data cleaning and exploratory analysis process includes:
 - Visualizing data to uncover patterns and insights.
 - Data wrangling for optimization.
 
-View the detailed EDA notebook [Here](finance-courses-at-udemy-eda.ipynb).
+View the detailed EDA notebook [Here](finance_courses_at_udemy_eda.ipynb).
