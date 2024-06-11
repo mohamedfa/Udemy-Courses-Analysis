@@ -10,7 +10,7 @@ In this project, we explore the extensive range of courses available on Udemy to
 
 This project visualizes data to provide insights into how various countries have historically performed in terms of publishing courses on Udemy. As a data analyst at Udemy, I aim to address specific business questions through:
 
-1. Cleaning data using a Kaggle notebook.
+1. Cleaning data using a Colab notebook.
 2. Conducting Exploratory Data Analysis (EDA) with Python.
 3. Creating visualizations using Plotly and Matplotlib.
 4. Employing the Simple Imputer algorithm to predict missing values.
